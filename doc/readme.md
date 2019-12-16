@@ -1,3 +1,3 @@
-say nima HDDi
-say nima HMMi
+say nima Hi
+say nima Hi
 it is a hard test!
